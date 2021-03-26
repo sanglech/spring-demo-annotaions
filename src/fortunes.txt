@@ -1,0 +1,2 @@
+goodFortunes=You will have a good day,You will smell like bacon,You will eat food
+bad.fortunes = You will have wet socks. You will not sleep well. It will not be lit.
